@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/miixc/hello-dockerized-node-webapp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.22.0"
   }
 }
